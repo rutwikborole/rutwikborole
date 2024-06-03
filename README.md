@@ -4,6 +4,13 @@
 
 - **Data Analysis**
   - [Analysis using R](https://github.com/rutwikborole/Data-Analysis)
+- **Machine Learning**
+  -   
+- **Natural Language Processing**
+  - 
+- **Deep Learning**
+  - 
+ 
   
 <h2>🥇 Certifications:</h2>
 
