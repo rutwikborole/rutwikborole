@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- **Data Structures and Algorithms Practice (AlgoExpert)**
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)  
+- **Data Analysis**
+  - [Analysis using R](https://github.com/rutwikborole/Data-Analysis)
   
 <h2>🥇 Certifications:</h2>
 
