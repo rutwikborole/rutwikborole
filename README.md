@@ -5,7 +5,8 @@
 - **Data Analysis**
   - [Analysis using R](https://github.com/rutwikborole/Data-Analysis)
 - **Machine Learning**
-  -   
+  -   [Regression Models]([https://github.com/rutwikborole/Data-Analysis](https://github.com/rutwikborole/Machine-Learning/tree/main/Electricity%20Consumption%20Prediction%20using%20Regression%20Models))
+  -   [Perceptron From Sratch]([https://github.com/rutwikborole/Data-Analysis](https://github.com/rutwikborole/Machine-Learning/tree/main/Perceptron%20From%20Scratch))
 - **Natural Language Processing**
   - 
 - **Deep Learning**
