@@ -7,8 +7,8 @@
 - **Machine Learning**
   -   [Regression Models](https://github.com/rutwikborole/Machine-Learning/tree/main)
   -   [Perceptron From Sratch](https://github.com/rutwikborole/Machine-Learning/tree/main)
-- **Natural Language Processing**
-  - 
+- **Video Game Recommender System**
+  - [MSc Computer Science - Capstone Project](https://github.com/rutwikborole/Video-Game-Recommender-System)
 - **Deep Learning**
   - 
  
