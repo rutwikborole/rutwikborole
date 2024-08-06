@@ -10,7 +10,8 @@
 - **Video Game Recommender System**
   - [MSc Computer Science - Capstone Project](https://github.com/rutwikborole/Video-Game-Recommender-System)
 - **Deep Learning**
-  - 
+  -   [Logistic Regression](https://github.com/rutwikborole/Deep-Learning/tree/main/Logistic%20Regression)
+  -   [Neural Network & Embeddings](https://github.com/rutwikborole/Deep-Learning/tree/main/Exploring%20Embeddings)
  
   
 <h2>🥇 Certifications:</h2>
