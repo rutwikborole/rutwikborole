@@ -13,7 +13,8 @@
   -   [Logistic Regression](https://github.com/rutwikborole/Deep-Learning/tree/main/Logistic%20Regression)
   -   [Neural Network & Embeddings](https://github.com/rutwikborole/Deep-Learning/tree/main/Exploring%20Embeddings)
   -   [Convolutional Neural Networks](https://github.com/rutwikborole/Deep-Learning/tree/main/CNN)
- 
+- **Data Visuliation**
+  -   [Airbnb-Dublin Tableau Dashboard](https://github.com/rutwikborole/AirBnB-Dublin-Tableau-Dashboard)
   
 <h2>🥇 Certifications:</h2>
 
