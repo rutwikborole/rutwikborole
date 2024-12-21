@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rutwik! <br/><a href="https://www.linkedin.com/in/rutwikborole-ireland">Data Professional</a></h1>
+<h1>Hi, I'm Rutwik! <br/><a href="https://www.linkedin.com/in/rutwikborole-ireland">QA Professional & Data Enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
