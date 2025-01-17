@@ -7,6 +7,9 @@
 - **Machine Learning**
   -   [Regression Models](https://github.com/rutwikborole/Machine-Learning/tree/main)
   -   [Perceptron From Sratch](https://github.com/rutwikborole/Machine-Learning/tree/main)
+- **NLP**
+  -   [Hate Speech Detection](https://github.com/rutwikborole/Machine-Learning/tree/main)
+  -   [Suggestion Detection](https://github.com/rutwikborole/Machine-Learning/tree/main)
 - **Video Game Recommender System**
   - [MSc Computer Science - Capstone Project](https://github.com/rutwikborole/Video-Game-Recommender-System)
 - **Deep Learning**
