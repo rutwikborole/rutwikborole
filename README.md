@@ -8,8 +8,9 @@
   -   [Regression Models](https://github.com/rutwikborole/Machine-Learning/tree/main)
   -   [Perceptron From Sratch](https://github.com/rutwikborole/Machine-Learning/tree/main)
 - **NLP**
-  -   [Hate Speech Detection](https://github.com/rutwikborole/Machine-Learning/tree/main)
-  -   [Suggestion Detection](https://github.com/rutwikborole/Machine-Learning/tree/main)
+  -   [Hate Speech Detection](https://github.com/rutwikborole/NLP/blob/main/Hate_Speech_Detection.ipynb)
+  -   [Suggestion Detection](https://github.com/rutwikborole/NLP/blob/main/Suggestion%20Detection.ipynb)
+  -   [Neural Machine Translation](https://github.com/rutwikborole/NLP/blob/main/Neural%20Machine%20Translation.ipynb)
 - **Video Game Recommender System**
   - [MSc Computer Science - Capstone Project](https://github.com/rutwikborole/Video-Game-Recommender-System)
 - **Deep Learning**
