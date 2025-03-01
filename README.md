@@ -19,6 +19,7 @@
   -   [Convolutional Neural Networks](https://github.com/rutwikborole/Deep-Learning/tree/main/CNN)
 - **Data Visuliation**
   -   [Airbnb-Dublin Tableau Dashboard](https://github.com/rutwikborole/AirBnB-Dublin-Tableau-Dashboard)
+  -   [Health Insurance Power BI Dashboard](https://github.com/rutwikborole/Ireland-Healthcare-Insurance-Dashboard)
   
 <h2>🥇 Certifications:</h2>
 
