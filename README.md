@@ -4,6 +4,7 @@
 
 - **Data Analysis**
   - [Analysis using R](https://github.com/rutwikborole/Data-Analysis)
+  - [Debt Analysis Using SQL & Python](https://github.com/rutwikborole/World-Bank-Debt-Analysis-SQL-Python)
 - **Machine Learning**
   -   [Regression Models](https://github.com/rutwikborole/Machine-Learning/tree/main)
   -   [Perceptron From Sratch](https://github.com/rutwikborole/Machine-Learning/tree/main)
